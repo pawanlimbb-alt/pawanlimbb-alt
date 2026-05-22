@@ -6,6 +6,10 @@
 [![Codewars](https://www.codewars.com/users/pawanlimbb-alt/badges/large)](https://www.codewars.com/users/pawanlimbb-alt)
 
 ![Stats](https://github.r2v.ch/codewars?user=pawanlimbb-alt&name=true&top_languages=true&theme=purple_dark)
+
+- 🔭 I’m currently working on HlyWor Platform and Android app development project.
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with an android app developement project
 <!--
 **pawanlimbb-alt/pawanlimbb-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
