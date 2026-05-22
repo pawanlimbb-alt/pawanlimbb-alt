@@ -1,5 +1,11 @@
 ## Hi there 👋
 ![Codewars](https://github.r2v.ch/codewars?user=pawanlimbb-alt)
+
+## 🥋 Codewars
+
+[![Codewars](https://www.codewars.com/users/pawanlimbb-alt/badges/large)](https://www.codewars.com/users/pawanlimbb-alt)
+
+![Stats](https://github.r2v.ch/codewars?user=pawanlimbb-alt&name=true&top_languages=true&theme=purple_dark)
 <!--
 **pawanlimbb-alt/pawanlimbb-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
